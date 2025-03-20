@@ -1,5 +1,8 @@
 # live-dashboard
 
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 Read-only Flask dashboard for monitoring a live systematic trading system.
 Part of a live trading system running on IC Markets via cTrader.
 Broker integration code is private — this repo covers the dashboard and trade logger only.
